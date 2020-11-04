@@ -47,6 +47,10 @@ function Home() {
                 />
             </div>
 
+            <div className="home__row">
+                <img src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/jupiter/Phase3/hotdeals/xcm_banners_01_stripe_1500x80_in-en.jpg" alt="Hot Deals"></img>
+            </div>
+
         </div>
     )
 }
